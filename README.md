@@ -1,4 +1,4 @@
-# Formação Angular
+# Guia Angular
 
 # Configuração do Ambiente
 
